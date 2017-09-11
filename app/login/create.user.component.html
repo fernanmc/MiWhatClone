@@ -1,0 +1,9 @@
+<StackLayout class="page">
+    <Label text="Crear Usuario" class="titulo" textWrap="true"></Label>
+    
+    <TextField hint="Email" KeyboardType="email" [(ngModel)]="email" autocorrect="false" autocapitalize="none"></TextField>
+    <TextField hint="Password" secure="true" [(ngModel)]="password" autocorrect="false" autocapitalize="none"></TextField>
+    
+    <Button (tap)="create()" class="submit-button" text="login"></Button>
+    <!--<Button [nsRouterLink]="[/createUser]" class="submit-button" text="Crear Usuario"></Button>!-->
+</StackLayout>

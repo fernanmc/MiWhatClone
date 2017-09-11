@@ -1,0 +1,32 @@
+TextField{
+    border-width: 1;
+    border-color: white;
+    margin-left: 10;
+    margin-right: 10;
+    margin-bottom: 10;
+}
+
+StackLayout{
+    margin-left: 30;
+    margin-right: 30;
+    margin-bottom: 30;
+    background-color: white;
+}
+
+Button{
+    margin-left: 16;
+    margin-right: 16;
+    margin-bottom: 16;
+}
+
+.submit-button{
+    background-color: red;
+    color: white;
+    margin-top: 20;
+}
+
+.titulo{
+    font-size: 30;
+    text-align: center;
+    
+}

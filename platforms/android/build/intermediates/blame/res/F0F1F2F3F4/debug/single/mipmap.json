@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4\\debug\\mipmap\\ic_info.png",
+        "source": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.andyxialm\\ColorDialog\\fc1804b35a\\res\\mipmap\\ic_info.png"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4\\debug\\mipmap\\ic_success.png",
+        "source": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.andyxialm\\ColorDialog\\fc1804b35a\\res\\mipmap\\ic_success.png"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4\\debug\\mipmap\\ic_wrong.png",
+        "source": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.andyxialm\\ColorDialog\\fc1804b35a\\res\\mipmap\\ic_wrong.png"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4\\debug\\mipmap\\ic_help.png",
+        "source": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.andyxialm\\ColorDialog\\fc1804b35a\\res\\mipmap\\ic_help.png"
+    },
+    {
+        "merged": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\res\\merged\\F0F1F2F3F4\\debug\\mipmap\\icon_warning.png",
+        "source": "G:\\CursoNativeScript\\MiWhatClone\\platforms\\android\\build\\intermediates\\exploded-aar\\com.github.andyxialm\\ColorDialog\\fc1804b35a\\res\\mipmap\\icon_warning.png"
+    }
+]

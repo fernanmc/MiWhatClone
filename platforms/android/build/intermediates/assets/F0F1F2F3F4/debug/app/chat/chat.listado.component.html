@@ -1,0 +1,13 @@
+<StackLayout class="page">
+    <Label text="Listado de Chats" class="titulo" textWrap="true"></Label>
+    <ListView [items]="mockChat"  class="list-group">
+        <ng-template let-item="item" let-odd="odd" let-even="even">
+          <StackLayout class="listadoChat">
+            <Label  (tap)="elegirChat(item.id)" [text]="item.nombre" class="list-group-item"></Label>
+            
+          </StackLayout>
+        </ng-template>
+    </ListView>
+    
+    <!--<Button [nsRouterLink]="[/createUser]" class="submit-button" text="Crear Usuario"></Button>!-->
+</StackLayout>

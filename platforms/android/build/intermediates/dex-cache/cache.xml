@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\MiWhatClone\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\binding-generator_2ef768ea059a6bc9c7dc89223dbd10b1c9953ba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-common-11.2.2_bcc4f8b88b414501262abe0bb73ed585badd5d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-analytics-impl-11.2.2_349f234866bb4f9dcbb521d1c3f2852b44aa78f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.android.gms-play-services-basement-11.2.2_43c01fa2f80c9f1aa18f976fe0cbb2f3e20ac72c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-iid-11.2.2_25d4863c0dcdafb1d94bc2d8bd895aa56d5cba39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73d3d4e86f3d6da0dd1987f7cff9fb07d5a36132">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.android.gms-play-services-location-11.2.2_b3e79b24910abca0fbb9e6789c3c126c4a4f3bb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-appcompat-v7-25.3.1_c99520772e43719ff4abfff098ea43b257f265cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a9ab7bfebf4a8d5c7fb1ac4e5dcf4bc4d6e3a0e">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-storage-11.2.2_bdb22e94c3730954d60afb2faa868dd5fa758440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-customtabs-25.3.1_f15bfc55261eaee6d817a3e3f4737196dbcf0e74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.github.andyxialm\ColorDialog\fc1804b35a\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f04d9a60ce24d8aa9a4a415f330270b9289b03f7">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.github.andyxialm-ColorDialog-fc1804b35a_e89e5a105a2ce3826df0d8764d361d70f77e1b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\firebase-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\intermediates-exploded-aar-firebase-release_4117221db1365262463a33e2dab32a7a5d3b5a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-support-core-utils-25.3.1_e306a74a760b086d140ff6a3e1f4b696d53295eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-design-25.3.1_82f0e0d1c3e89e0518f81b9c7e4cb2af2be536ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-support-media-compat-25.3.1_c27282d14f010ccc2ce4a49d82660bcb37a904ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-cardview-v7-25.3.1_29e927c9ace43598e00797f68bd2cd904d7e19c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-auth-11.2.2_f9ab335a73b0f25069ea48e20a85b10d9a4d1027.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-storage-common-11.2.2_3d21c0fe478e33ce34e2b02d4f562194641cf7fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-database-connection-11.2.2_f24d2c75159cfc8a97601e38f77f4590666dd23b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\intermediates-exploded-aar-widgets-release_fef10ebd41e3506af61b380c60abe2e4d056dd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-analytics-11.2.2_1e754b17e959520bd1c39ebd45f94e515452c486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.android.gms-play-services-base-11.2.2_fc8595c993edab4427cc4d83370a8340d808585c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3352405f829252e602a47d252f11edd7c89d86ff">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-database-11.2.2_65848308719658fd68e17ef7cda11eacf3e71889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-recyclerview-v7-25.3.1_a9406ddeb785c40c88b1d5d6835220b658f1ab8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ferna\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\gson-2.8.1_397b90713dc4370df48fa18725a8c3288e0323b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-support-vector-drawable-25.3.1_659e156a5e095a0b6222fa59d9b325f7adebdf14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-transition-25.3.1_4c5232c73770edf8b2a125cd76f251d8369849a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2eb6645cc2bcf9fb0710798b7e07cb0f6f11f138">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-crash-11.2.2_140f63b5b5e03357d54606c9ecf871269b497bfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-support-core-ui-25.3.1_2cd4f9c5238711bab528d8b356997c52c9d28338.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\MiWhatClone\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\MiWhatClone-runtime-unspecified_b826116882ce937f17916b1793e8e4f921f2e249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-animated-vector-drawable-25.3.1_aa6d6dea59ef812a74dff52a9aa20b7de9bc2f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-support-v4-25.3.1_bb2b95b1ca2529ac02771b3b2e84bc7547857e70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="227bbf04b4eae5247addf6569dc42af539a45f37">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.firebase-firebase-messaging-11.2.2_a26a46862d3e0a7f05bcca68ea2e9e0989fad741.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-support-compat-25.3.1_6be4573693a15d7ffcdda2453d1e2d48ec03f8a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\support-annotations-25.3.1_3e44e75686487fc4878982485b42224ecc7c3bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.android.support-support-fragment-25.3.1_96a9c180e1c1eb373a47c7e0864117fda1b4e5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="G:\CursoNativeScript\MiWhatClone\platforms\android\build\intermediates\pre-dexed\F0F1F2F3F4\debug\com.google.android.gms-play-services-tasks-11.2.2_1ec86e584dc95f697f2a8639502f5975ce5e45db.jar" />
+    </item>
+
+</items>

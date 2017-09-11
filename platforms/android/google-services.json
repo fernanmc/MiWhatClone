@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "892427083974",
+    "firebase_url": "https://miwhatclone.firebaseio.com",
+    "project_id": "miwhatclone",
+    "storage_bucket": "miwhatclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892427083974:android:3b8882faf07e2d3e",
+        "android_client_info": {
+          "package_name": "org.nativescript.MiWhatClone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892427083974-kkhbq5grkp08m7o9en6njd7ne3fbee7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdg2f0rKCvyVrBj7Y22VU4ynxZ7dAAkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

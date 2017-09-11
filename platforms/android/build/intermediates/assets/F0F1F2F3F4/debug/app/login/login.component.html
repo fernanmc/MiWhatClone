@@ -1,0 +1,16 @@
+
+<ActionBar title="My App" class="action-bar">
+</ActionBar>
+
+<StackLayout class="page">
+    <Label text="Login" class="titulo" textWrap="true"></Label>
+    
+    <TextField hint="Email" KeyboardType="email" [(ngModel)]="email" autocorrect="false" autocapitalize="none"></TextField>
+    <TextField hint="Password" secure="true" [(ngModel)]="password" autocorrect="false" autocapitalize="none"></TextField>
+    
+    <Button (tap)="login()" class="submit-button" text="login"></Button>
+    <Button [nsRouterLink]="['/createUser']" class="submit-button" text="Crear Usuario"></Button>
+    <Button (tap)="takePicture()" text="Take Picture"></Button>
+    <Button text="enable Location" (tap)="enableLocationTap()"></Button>
+    
+</StackLayout>
